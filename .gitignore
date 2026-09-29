@@ -1,0 +1,14 @@
+.venv/
+venv/
+myenv/
+__pycache__/
+*.pyc
+
+.streamlit/secrets.toml
+
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+test_core.py
